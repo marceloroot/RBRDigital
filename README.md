@@ -64,4 +64,12 @@ Para acessar o projeto vai em:
 http://localhost:3001
 ```
 
+### 6. Para rodar  :
+
+Para rodar os tests tem que endividualmente em cada diretorio e executar:
+
+```bash
+npm install
+```
+
 
