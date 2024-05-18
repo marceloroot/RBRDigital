@@ -1,5 +1,5 @@
-# Nome do Projeto
-RBR DIGITAL - Desenvolvido por Marcelo
+# RBR DIGITAL
+Desenvolvido por Marcelo
 
 ## Descrição
 Desenvolver um dashboard administrativo simples onde os usuários possam gerenciar uma lista de funcionários, incluindo a criação, leitura, atualização e exclusão de registros de funcionários.
