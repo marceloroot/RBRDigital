@@ -23,3 +23,21 @@ Primeiro, clone o repositório para a sua máquina local usando o comando abaixo
 
 ```bash
 git clone nome-repositorio
+
+### 2. Acesse o Diretório do Projeto
+
+Navegue até o diretório do projeto clonado:
+
+```bash
+cd RBRDigital
+
+### 3. Suba o Docker
+
+Para iniciar os contêineres Docker, execute o seguinte comando:
+
+```bash
+docker-compose up --build -d
+
+Nota: Esse processo pode demorar alguns minutos, então seja paciente enquanto os contêineres estão sendo configurados.
+
+
