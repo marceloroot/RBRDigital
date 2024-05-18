@@ -41,4 +41,27 @@ docker-compose up --build -d
 
 Nota: Esse processo pode demorar alguns minutos, então seja paciente enquanto os contêineres estão sendo configurados.
 
+### 4. Acesse o sistema
+
+Para acessar o projeto vai em:
+
+```bash
+http://localhost:3000
+```
+
+### 5. Acesse a base de dados vai em:
+
+Para acessar o projeto vai em:
+
+```bash
+http://localhost:8081
+```
+### 6. A API se em contra :
+
+Para acessar o projeto vai em:
+
+```bash
+http://localhost:3001
+```
+
 
