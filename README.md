@@ -30,13 +30,14 @@ Navegue até o diretório do projeto clonado:
 
 ```bash
 cd RBRDigital
-
+```
 ### 3. Suba o Docker
 
 Para iniciar os contêineres Docker, execute o seguinte comando:
 
 ```bash
 docker-compose up --build -d
+```
 
 Nota: Esse processo pode demorar alguns minutos, então seja paciente enquanto os contêineres estão sendo configurados.
 
