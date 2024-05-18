@@ -23,7 +23,7 @@ Primeiro, clone o repositório para a sua máquina local usando o comando abaixo
 
 ```bash
 git clone nome-repositorio
-
+```
 ### 2. Acesse o Diretório do Projeto
 
 Navegue até o diretório do projeto clonado:
